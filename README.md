@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/kirtnoel/kirtnoel.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Change Healthcare — Senior Technical Engineer
+### Feb 2007 - present, Canada and Ireland
+- Successfully implemented the McKesson Radiology Information System (MRM RIS) across a wide variety of hospital organizations in the United States, Canada and Ireland
+- Directed HL7 testing forums with clients to implement robust HL7 v2 message streams
+- Engineered a prototype solution to capture and persist HL7 message content into patient records for data analytics
+- Devised and implemented an HL7 solution to simultaneously migrate multiple Radiology systems to a new Enterprise Master Patient Index (EMPI)
+- Trained and mentored new hires and led workshops to help colleagues improve their SQL and HL7 skills
+- Integrated with billings systems using XSLT to manipulate XML billing files
+- Provided Tier 2 support and maintained case history in Salesforce
+- Successfully introduced an HL7 engine into an existing production environment decreasing HL7 overhead on a RIS by 60% with improved automated monitoring abilities
+- Developed automated tests in C# with xUnit
+Created illustrative documents and presentations on integration solutions for diverse audiences
+- Scripted a solution to migrate scanned documents from the Agfa RIS to MRM RIS
+- Constructed clinical report templates with Crystal Report Designer
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kirtnoel/kirtnoel.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
