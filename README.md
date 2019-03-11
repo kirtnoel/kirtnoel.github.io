@@ -1,4 +1,4 @@
-##Kirt Noël
+## Kirt Noël
 Quebec City
 ### Change Healthcare — Senior Technical Engineer
 **Feb 2007 - present, Canada and Ireland**
