@@ -10,9 +10,8 @@ Quebec City
 - Integrated with billings systems using XSLT to manipulate XML billing files
 - Provided Tier 2 support and maintained case history in Salesforce
 - Successfully introduced an HL7 engine into an existing production environment decreasing HL7 overhead on a RIS by 60% with improved automated monitoring abilities
-- Developed automated tests in C# with xUnit
-Created illustrative documents and presentations on integration solutions for diverse audiences
+- Created illustrative documents and presentations on integration solutions for diverse audiences
 - Scripted a solution to migrate scanned documents from the Agfa RIS to MRM RIS
 - Constructed clinical report templates with Crystal Report Designer
-
+- Developed automated tests in C# with xUnit
 
