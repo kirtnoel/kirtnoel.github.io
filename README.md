@@ -18,8 +18,14 @@ Quebec City
 - Constructed clinical report templates with Crystal Report Designer
 
   ---
-### Royal Columbian Hospital
-**Nov 2001 - Feb 2007**
+### Technical Skills 
 
-### [More about Kirt](./about.html "About Kirt")
+|Language|Years Experience|Skill Level|
+|--------|----------------|-----------|
+|HL7 v2|12|Expert|
+|SQL|12|Expert|
+|T-SQL|3|Intermediate|
+|C#|2|Intermediate|
+|tcl|5|Intermediate|
+
 
