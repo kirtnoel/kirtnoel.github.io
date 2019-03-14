@@ -1,8 +1,7 @@
 ## Kirt Noël
 Quebec City
 ### Change Healthcare — Senior Technical Engineer
-Feb 2007 - present, Canada and Ireland**
----------
+**Feb 2007 - present, Canada and Ireland**
 - Successfully implemented the McKesson Radiology Information System (MRM RIS) across a wide variety of hospital organizations in the United States, Canada and Ireland
 - Directed HL7 testing forums with clients to implement robust HL7 v2 message streams
 - Engineered a prototype solution to capture and persist HL7 message content into patient records for data analytics
