@@ -1,4 +1,6 @@
-## Kirt Noël
+Kirt Noël
+---------
+
 Quebec City
   * * *
 ### Change Healthcare — Senior Technical Engineer
@@ -15,4 +17,9 @@ Quebec City
 - Created illustrative documents and presentations on integration solutions for diverse audiences
 - Scripted a solution to migrate scanned documents from the Agfa RIS to MRM RIS
 - Constructed clinical report templates with Crystal Report Designer
+
+  ---
+### Royal Columbian Hospital
+**Nov 2001 - Feb 2007
+
 
