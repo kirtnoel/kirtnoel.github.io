@@ -1,4 +1,4 @@
-## [Kirt Noel](Title.png "Kirt Noel")
+## [Kirt Noel](contact.jpg "Contact Me")
 
 Quebec City
   * * *
