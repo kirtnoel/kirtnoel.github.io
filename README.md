@@ -1,5 +1,5 @@
-##Kirt Noël##
-
+## Kirt Noël
+![Contact](abc.jpg "Contact me")
 Quebec City
   * * *
 ### Change Healthcare — Senior Technical Engineer
