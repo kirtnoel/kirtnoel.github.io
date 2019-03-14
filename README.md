@@ -1,5 +1,4 @@
-Kirt Noël
----------
+**Kirt Noël**
 
 Quebec City
   * * *
@@ -20,6 +19,6 @@ Quebec City
 
   ---
 ### Royal Columbian Hospital
-**Nov 2001 - Feb 2007
+**Nov 2001 - Feb 2007**
 
 
