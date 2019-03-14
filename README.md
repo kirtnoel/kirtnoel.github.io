@@ -21,5 +21,5 @@ Quebec City
 ### Royal Columbian Hospital
 **Nov 2001 - Feb 2007**
 
-[Test link](./about.html)
+#### [More about Kirt](./about.html)
 
