@@ -21,5 +21,5 @@ Quebec City
 ### Royal Columbian Hospital
 **Nov 2001 - Feb 2007**
 
-#### [More about Kirt](./about.html "About Kirt")
+### [More about Kirt](./about.html "About Kirt")
 
