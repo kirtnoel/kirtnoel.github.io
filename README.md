@@ -2,30 +2,27 @@
 
 Quebec City
   * * *
-### Change Healthcare — Senior Technical Engineer
-**Feb 2007 - present, Canada and Ireland**
-- Successfully implemented the McKesson Radiology Information System (MRM RIS) across a wide variety of hospital organizations in the United States, Canada and Ireland
-- Directed HL7 testing forums with clients to implement robust HL7 v2 message streams
-- Engineered a prototype solution to capture and persist HL7 message content into patient records for data analytics
-- Developed automated tests in C# with xUnit
-- Devised and implemented an HL7 solution to simultaneously migrate multiple Radiology systems to a new Enterprise Master Patient Index (EMPI)
-- Trained and mentored new hires and led workshops to help colleagues improve their SQL and HL7 skills
-- Integrated with billings systems using XSLT to manipulate XML billing files
-- Provided Tier 2 support and maintained case history in Salesforce
-- Successfully introduced an HL7 engine into an existing production environment decreasing HL7 overhead on a RIS by 60% with improved automated monitoring abilities
-- Created illustrative documents and presentations on integration solutions for diverse audiences
-- Scripted a solution to migrate scanned documents from the Agfa RIS to MRM RIS
-- Constructed clinical report templates with Crystal Report Designer
+### Bell Services d'affaires / Bell Business Markets — Full stack developer, Quebec City
+**juillet 2019 - présent**  
+Je fais partie d’une équipe de consultants en informatique qui servent un groupe diversifié de clients des secteurs public et privé. Nous fournissons à nos clients les compétences et les conseils nécessaires pour atteindre leurs objectifs. Mon expérience et mes compétences sont centrées sur la pile technologique .NET. Pour rester compétitif, j’améliore continuellement mes compétences grâce à la lecture, à l’exploration et aux certifications.
+   
+**July 2019 - present**  
+I am Full stack developer on a team of IT consultants who serve a diverse group of clients from both the public and private sectors. We provide our clients with the necessary skills and guidance to achieve their objectives. My experience and skillset are primarily focused on the .NET technology stack. To stay competitive, I pursue continuous learning through reading, exploration, and certifications.
+
+
+
+
 
   ---
-### Technical Skills 
+### Compétences Techniques / Technical Skills 
 
 |Language|Years Experience|Skill Level|
 |--------|----------------|-----------|
+|C#, .NET, ASP.NET|6|Advanced|
+|SQL|12|Advanced|
+|git|5|Intermediate|
 |HL7 v2|12|Expert|
-|SQL|12|Expert|
 |T-SQL|3|Intermediate|
-|C#|2|Intermediate|
-|tcl|5|Intermediate|
+|Java|2|Intermediate|
 
 
