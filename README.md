@@ -1,4 +1,4 @@
-## [Kirt Noël](ContactInfo.jpg "Contact Me")
+## Kirt Noël
 
 Quebec City
   * * *
